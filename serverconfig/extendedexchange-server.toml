@@ -1,0 +1,15 @@
+
+[General]
+	#Max EMC which Personal/Refined/Compressed Refined Link Blocks can remove from personal EMC (in one operation) when extracting items. Setting this to 0 disables extraction of any item from these blocks.
+	#Range: 0 ~ 9223372036854775807
+	emc_link_max_output = 2000000000
+	#If false, ignore the Stone Table whitelist, which is the 'extendedexchange:stone_table_whitelist' item tag. If true, only items in that tag can be placed in the Stone Table.
+	enable_stone_table_whitelist = false
+	#If false, the Final Star can only copy items that have an EMC value.
+	final_star_copies_any_item = true
+	#If false, items copied by the Final Star will have no NBT, unless they are in the 'projecte:nbt_whitelist' item tag.
+	final_star_copies_nbt = false
+	#Update interval in ticks for the Final Star when in a Pedestal. Setting this to 0 prevents any item copying (making the Final Star useless...)
+	#Range: > 0
+	final_star_update_interval = 20
+

@@ -1,0 +1,47 @@
+
+#List of ranks
+[[ranks]]
+	tier = 0
+	numAffixes = 0
+	defaultColor = 0
+	chance = 0.0
+	growthFactor = 0
+	effects = []
+	presetAffixes = []
+
+[[ranks]]
+	tier = 1
+	numAffixes = 1
+	defaultColor = 30719
+	chance = 0.0
+	growthFactor = 1
+	effects = ["minecraft:speed"]
+	presetAffixes = []
+
+[[ranks]]
+	tier = 2
+	numAffixes = 2
+	defaultColor = 16750848
+	chance = 0.0
+	growthFactor = 2
+	effects = ["minecraft:fire_resistance"]
+	presetAffixes = []
+
+[[ranks]]
+	tier = 3
+	numAffixes = 3
+	defaultColor = 6750207
+	chance = 0.0
+	growthFactor = 3
+	effects = ["minecraft:resistance", "minecraft:regeneration;2"]
+	presetAffixes = []
+
+[[ranks]]
+	tier = 4
+	numAffixes = 4
+	defaultColor = 16777215
+	chance = 0.0
+	growthFactor = 4
+	effects = ["minecraft:speed;1"]
+	presetAffixes = []
+

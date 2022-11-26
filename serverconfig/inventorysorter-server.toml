@@ -1,0 +1,8 @@
+
+#Inventory sorter blacklists
+[blacklists]
+	#Container blacklist
+	containerBlacklist = ["projecte:condenser_mk2", "projecte:condenser_mk1", "refinedstorage:crafter", "refinedstorage:crafter_manager", "titanium:addon_container", "ironfurnaces:silver_furnace", "ironfurnaces:obsidian_furnace", "ironfurnaces:iron_furnace", "ironfurnaces:diamond_furnace", "ironfurnaces:copper_furnace", "ironfurnaces:million_furnace", "ironfurnaces:crystal_furnace", "ironfurnaces:gold_furnace", "ironfurnaces:emerald_furnace", "ironfurnaces:netherite_furnace"]
+	#Slot type blacklist
+	slotBlacklist = []
+
