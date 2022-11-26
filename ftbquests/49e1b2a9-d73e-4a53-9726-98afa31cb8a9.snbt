@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "49e1b2a9d73e4a53972698afa31cb8a9"
+	name: "Augustym_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

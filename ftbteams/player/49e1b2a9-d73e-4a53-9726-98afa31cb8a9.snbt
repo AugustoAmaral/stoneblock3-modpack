@@ -1,0 +1,18 @@
+{
+	id: "49e1b2a9-d73e-4a53-9726-98afa31cb8a9"
+	type: "player"
+	player_name: "Augustym_"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Augustym_"
+		"ftbteams:color": "#FF8359"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

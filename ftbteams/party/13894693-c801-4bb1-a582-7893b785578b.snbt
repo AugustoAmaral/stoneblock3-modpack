@@ -1,0 +1,20 @@
+{
+	id: "13894693-c801-4bb1-a582-7893b785578b"
+	type: "party"
+	owner: "49e1b2a9-d73e-4a53-9726-98afa31cb8a9"
+	ranks: {
+		49e1b2a9-d73e-4a53-9726-98afa31cb8a9: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Augustym_ Party"
+		"ftbteams:color": "#FF5C59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1669431795017L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Augustym_\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
+	extra: { }
+}
