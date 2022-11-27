@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbsbc:team/pulsojet-kipskin-kenning", x: 0, y: 0, z: 1, time: 1669486027850L }
+	last_seen: { dim: "ftbsbc:team/pulsojet-kipskin-kenning", x: 0, y: 0, z: 1, time: 1669565836024L }
 	recording: 0
 	teleport_history: [ ]
 	homes: { }
