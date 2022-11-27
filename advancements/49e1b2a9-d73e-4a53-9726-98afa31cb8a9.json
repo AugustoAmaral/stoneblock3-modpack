@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -571,6 +577,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/bloodmagictab/blood_altar": {
+    "criteria": {
+      "has_gold": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2022-11-26 18:06:34 +0000"
@@ -580,6 +592,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2022-11-26 18:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -1076,6 +1094,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapet/oak_plank_parapet": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -1085,6 +1109,12 @@
   "itemcollectors:recipes/search/advanced_collector": {
     "criteria": {
       "basic_collector": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -1352,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2022-11-26 18:06:04 +0000"
@@ -1403,6 +1439,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -1568,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -1589,6 +1637,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -2238,6 +2292,12 @@
     },
     "done": true
   },
+  "ftbsbc:recipes/ftbsbc/gold_hammer": {
+    "criteria": {
+      "has_item": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2022-11-26 03:03:16 +0000"
@@ -2289,6 +2349,12 @@
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_this": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -2469,6 +2535,12 @@
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -2707,6 +2779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-11-26 18:03:55 +0000"
@@ -2845,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
@@ -2932,6 +3016,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2022-11-26 18:06:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/gold_hammer": {
+    "criteria": {
+      "has_material": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -3161,6 +3251,12 @@
   "mcwbridges:recipes/deepslate_tile_bridge_pier": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -3422,6 +3518,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-11-27 16:47:10 +0000"
@@ -3431,6 +3533,12 @@
   "chiselsandbits:recipes/chiselsandbits/chisel_stone": {
     "criteria": {
       "has_rod": "2022-11-27 16:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -3557,6 +3665,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2022-11-27 16:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
@@ -3980,6 +4094,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds/jungle_blinds": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -4070,6 +4190,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-11-26 03:14:17 +0000"
@@ -4139,6 +4265,12 @@
   "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
     "criteria": {
       "has_rod": "2022-11-27 16:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2022-11-27 17:45:20 +0000"
     },
     "done": true
   },
