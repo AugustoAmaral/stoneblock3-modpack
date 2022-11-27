@@ -854,6 +854,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_the_recipe": "2022-11-27 18:51:52 +0000"
+    },
+    "done": true
+  },
   "ftbsbc:recipes/ftbsbc/stone_rod": {
     "criteria": {
       "has_item": "2022-11-26 03:04:15 +0000"
@@ -1031,6 +1037,12 @@
   "mcwbridges:recipes/warped_bridge_pier": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_cogwheelfrom_little": {
+    "criteria": {
+      "has_the_recipe": "2022-11-27 18:51:41 +0000"
     },
     "done": true
   },
@@ -3995,6 +4007,12 @@
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-11-27 18:51:51 +0000"
     },
     "done": true
   },
