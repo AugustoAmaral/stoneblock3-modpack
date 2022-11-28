@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
@@ -134,6 +140,12 @@
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -281,6 +293,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/magenta_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/light_gray_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/warped": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -317,9 +341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-11-28 11:48:43 +0000"
     },
     "done": true
   },
@@ -344,6 +380,12 @@
   "mcwwindows:recipes/parapet/birch_plank_parapet": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -380,6 +422,12 @@
   "mcwtrpdoors:recipes/crimson/crimson_swamp_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -431,6 +479,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2022-11-27 18:54:49 +0000"
@@ -470,6 +524,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2022-11-26 18:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -569,6 +629,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/spruce": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -578,6 +644,18 @@
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/white_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -659,9 +737,21 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/bloodmagictab/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2022-11-27 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -905,6 +995,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/lime_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -1015,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energy_module": {
     "criteria": {
       "ingot": "2022-11-26 18:06:34 +0000"
@@ -1042,6 +1144,12 @@
   "ftbsbc:recipes/ftbsbc/fire_plow": {
     "criteria": {
       "has_item": "2022-11-27 16:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -1213,6 +1321,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/bloodmagictab/synthetic_point": {
     "criteria": {
       "has_nugget": "2022-11-27 18:54:38 +0000"
@@ -1315,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2022-11-26 18:06:04 +0000"
@@ -1324,6 +1444,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2022-11-26 03:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -1478,6 +1604,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
       "has_cbl_deepslate": "2022-11-26 03:03:16 +0000"
@@ -1490,9 +1622,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/brown_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2022-11-26 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -1505,6 +1649,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-11-26 03:07:01 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_item": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -1688,6 +1838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2022-11-26 18:06:34 +0000"
@@ -1745,6 +1901,12 @@
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2022-11-27 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/pink_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -1868,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2022-11-26 18:06:04 +0000"
@@ -1970,6 +2138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/strip/stripped_oak_log_window": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -2009,6 +2183,18 @@
   "mcwwindows:recipes/strip/stripped_birch_log_window2": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -2057,6 +2243,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-11-26 18:03:56 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2022-11-28 11:47:03 +0000"
     },
     "done": true
   },
@@ -2183,6 +2375,12 @@
   "mcwwindows:recipes/windows/oak_window": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -2456,9 +2654,21 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "cobblefordays:recipes/misc/tier_5": {
     "criteria": {
       "has_water": "2022-11-27 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -2489,6 +2699,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2022-11-27 16:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -2523,6 +2739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-11-26 03:07:01 +0000"
@@ -2547,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -2568,6 +2796,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -2649,6 +2883,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/purple_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
@@ -2703,6 +2943,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber_card": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "industrialforegoing:recipes/industrialforegoing_core/plastic": {
     "criteria": {
       "has_plastic": "2022-11-26 03:03:16 +0000"
@@ -2751,6 +2997,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass1": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2022-11-26 03:14:17 +0000"
@@ -2788,6 +3040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/clock_module": {
     "criteria": {
       "ingot": "2022-11-26 18:06:34 +0000"
@@ -2797,6 +3055,12 @@
   "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -2839,6 +3103,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-11-26 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -3005,6 +3275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2022-11-26 18:06:34 +0000"
@@ -3113,6 +3389,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/orange_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
@@ -3149,6 +3431,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_hammer": {
+    "criteria": {
+      "has_material": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-11-26 18:06:34 +0000"
@@ -3173,6 +3461,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2022-11-26 03:03:16 +0000"
@@ -3182,6 +3476,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/green_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -3317,6 +3617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/planks/acacia_plank_window2": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -3395,6 +3701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2022-11-26 03:03:18 +0000"
@@ -3410,6 +3722,12 @@
   "mcwwindows:recipes/planks/crimson_planks_window": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/iron_band": {
+    "criteria": {
+      "has_lava": "2022-11-28 11:48:43 +0000"
     },
     "done": true
   },
@@ -3476,6 +3794,12 @@
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2022-11-27 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -3703,6 +4027,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/gray_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2022-11-26 03:03:16 +0000"
@@ -3724,6 +4054,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-11-27 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -3757,15 +4093,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/analog_lever": {
-    "criteria": {
-      "has_item": "2022-11-27 18:54:49 +0000"
-    },
-    "done": true
-  },
   "minicoal:recipes/misc/mini_coal": {
     "criteria": {
       "has_coal": "2022-11-27 16:47:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2022-11-27 18:54:49 +0000"
     },
     "done": true
   },
@@ -3841,6 +4177,12 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -3856,6 +4198,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-11-26 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -3916,6 +4264,12 @@
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2022-11-26 18:06:34 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -3994,6 +4348,12 @@
   "rftoolsutility:recipes/rftoolsutility/counter_module": {
     "criteria": {
       "ingot": "2022-11-26 18:06:34 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -4087,9 +4447,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -4190,6 +4562,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/cyan_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/windows/oak_window2": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -4199,6 +4577,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2022-11-28 11:52:36 +0000"
     },
     "done": true
   },
@@ -4250,9 +4634,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_stair": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/blue_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -4346,6 +4742,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_pane/red_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
@@ -4379,6 +4781,12 @@
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/yellow_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -4442,6 +4850,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_diorite": "2022-11-26 03:03:16 +0000"
@@ -4460,6 +4874,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-11-28 11:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/sandstone": {
     "criteria": {
       "has_sandstone": "2022-11-26 03:03:17 +0000"
@@ -4469,6 +4889,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/light_blue_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
@@ -4592,6 +5018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -4682,6 +5114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2022-11-28 11:52:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/deepslate_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
@@ -4715,6 +5153,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2022-11-26 18:06:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/black_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
     },
     "done": true
   },
