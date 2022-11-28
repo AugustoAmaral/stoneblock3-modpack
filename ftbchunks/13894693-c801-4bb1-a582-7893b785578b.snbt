@@ -4,5 +4,12 @@
 	extra_claim_chunks: 0
 	extra_force_load_chunks: 0
 	force_load_members: ["49e1b2a9-d73e-4a53-9726-98afa31cb8a9"]
-	chunks: { }
+	chunks: {
+		"ftbsbc:team/pulsojet-kipskin-kenning": [
+			{ x: -1, z: -1, time: 1669637844854L, force_loaded: 1669637848046L }
+			{ x: 0, z: 0, time: 1669637844854L, force_loaded: 1669637848046L }
+			{ x: -1, z: 0, time: 1669637844854L, force_loaded: 1669637848046L }
+			{ x: 0, z: -1, time: 1669637844854L, force_loaded: 1669637848046L }
+		]
+	}
 }

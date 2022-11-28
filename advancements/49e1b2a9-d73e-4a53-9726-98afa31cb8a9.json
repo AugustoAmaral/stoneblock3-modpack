@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_emerald": {
+    "criteria": {
+      "has_emerald": "2022-11-28 12:08:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone/stone_window": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:16 +0000"
@@ -488,6 +494,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2022-11-27 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2022-11-28 12:15:52 +0000"
     },
     "done": true
   },
@@ -842,6 +854,12 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2022-11-26 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-11-28 12:16:48 +0000"
     },
     "done": true
   },
@@ -2883,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-11-28 12:08:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mosaic_pane/purple_mosaic_glass_pane": {
     "criteria": {
       "has_mosaic_glass": "2022-11-28 11:52:14 +0000"
@@ -3656,6 +3680,12 @@
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2022-11-26 18:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2022-11-28 12:15:52 +0000"
     },
     "done": true
   },
